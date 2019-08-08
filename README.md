@@ -1,3 +1,3 @@
 # Farmer-John
 
-Check out the website: farmerjohn.life
+Check out the website: http://farmerjohn.life
